@@ -111,6 +111,7 @@
 6. [使用ChatGPT进行零样本关系抽取](https://github.com/cocacola-lab/ChatIE)
 7. [LLM（Large Language Model）下的自然语言处理任务、基于清华开源大模型 ChatGLM-6B](https://github.com/HarderThenHarder/transformers_tasks/blob/main/LLM/zero-shot/readme.md)
 8. [知识图谱与大模型论文](https://github.com/zjukg/KG-LLM-Papers)
+9. [关于大模型与图分析综述。A Survey of Large Language Models on Generative Graph Analytics: Query, Learning, and Applications](https://arxiv.org/pdf/2404.14809)
 
 ---
 ### 知识图谱相关会议
