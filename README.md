@@ -167,7 +167,7 @@ Time to publication 3 weeks]
 8. [Neural Computing and Applications](https://link.springer.com/journal/521)[Impact factor 6.0 (SCI 3 区 2022) 5 year impact factor 5.6 (2022) Submission to first decision (median) 16 days]
 #### SCI
 1. [Proceedings of the VLDB Endowment](https://dl.acm.org/journal/pvldb)[SCI 3区]
-2. 
+2. [Scientific reports ](https://www.nature.com/srep/)[SCI 2区]
 
 ---
 ### 如何做科研写论文
