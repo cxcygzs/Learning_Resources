@@ -165,6 +165,10 @@ Time to publication 3 weeks]
 6. [International Journal of Uncertainty,Fuzziness and Knowledge-Based System(IJUFKS)](https://dblp.uni-trier.de/db/journals/ijufks/)
 7. [Journal of Visual Communication and Image Representation](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation?adobe_mc=MCMID%3D17833385809454035740297324323038236191%7CMCORGID%3D4D6368F454EC41940A4C98A6%2540AdobeOrg%7CTS%3D1715068067&dgcid=sd%3Ajf%3Arecommend-stem)[CiteScore 6.8 Impact Factor 2.6 Acceptance rate —Time to 1st decision 7 weeks Time to publication 3 weeks]
 8. [Neural Computing and Applications](https://link.springer.com/journal/521)[Impact factor 6.0 (SCI 3 区 2022) 5 year impact factor 5.6 (2022) Submission to first decision (median) 16 days]
+#### SCI
+1. [Proceedings of the VLDB Endowment](https://dl.acm.org/journal/pvldb)[SCI 3区]
+2. 
+
 ---
 ### 如何做科研写论文
 1. [高质量读研：教你如何写论文、做科研](https://www.dedao.cn/ebook/detail?id=BpM1nLOerPa1XOp27zqQ8KGR56loVWrZejWdLygv94jYmnENDxAMZJBkbNzEblgQ)
