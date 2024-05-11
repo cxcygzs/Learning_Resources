@@ -114,6 +114,7 @@
 9. [关于大模型与图分析综述。A Survey of Large Language Models on Generative Graph Analytics: Query, Learning, and Applications](https://arxiv.org/pdf/2404.14809)
 10. [知识图谱提示学习PromptKG Family: a Gallery of Prompt Learning & KG-related research works, toolkits, and paper-list.](https://github.com/zjunlp/PromptKG)
 11. [知识图谱提示工程LLMs for Knowledge Graph 2: GPT Prompt Engineering for Knowledge Graph Creation](https://graphaware.com/blog/hume/episode_2-gpt-prompt-engineering.html)
+12. [LLM Prompt Engineering Techniques for Knowledge Graph Integration可视化知识图谱提示工程](https://www.visual-design.net/post/llm-prompt-engineering-techniques-for-knowledge-graph)
 
 ---
 ### 知识图谱相关会议
