@@ -115,6 +115,7 @@
 10. [知识图谱提示学习PromptKG Family: a Gallery of Prompt Learning & KG-related research works, toolkits, and paper-list.](https://github.com/zjunlp/PromptKG)
 11. [知识图谱提示工程LLMs for Knowledge Graph 2: GPT Prompt Engineering for Knowledge Graph Creation](https://graphaware.com/blog/hume/episode_2-gpt-prompt-engineering.html)
 12. [LLM Prompt Engineering Techniques for Knowledge Graph Integration可视化知识图谱提示工程](https://www.visual-design.net/post/llm-prompt-engineering-techniques-for-knowledge-graph)
+13. [Prompt-Engineering-Guide提示工程指导书](https://github.com/dair-ai/Prompt-Engineering-Guide)
 
 ---
 ### 知识图谱相关会议
