@@ -121,7 +121,7 @@
 
 ---
 ### 中国计算机学会CCF推荐国际学术会议和期刊目录2022
-[中国计算机学会（CCF）推荐国际学术会议和期刊目录（2022）-单页] (https://ying-zhang.github.io/misc/2022-ccf-list/)
+1. [中国计算机学会（CCF）推荐国际学术会议和期刊目录（2022）-单页](https://ying-zhang.github.io/misc/2022-ccf-list/)
 ---
 
 
