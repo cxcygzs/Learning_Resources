@@ -120,8 +120,8 @@
 13. [Prompt-Engineering-Guide提示工程指导书](https://github.com/dair-ai/Prompt-Engineering-Guide)
 
 ---
-### [中国计算机学会（CCF）推荐国际学术会议和期刊目录（2022）-单页]
-[中国计算机学会（CCF）推荐国际学术会议和期刊目录（2022）-单页](https://ying-zhang.github.io/misc/2022-ccf-list/)
+### 中国计算机学会（CCF）推荐国际学术会议和期刊目录（2022）-单页
+[中国计算机学会（CCF）推荐国际学术会议和期刊目录（2022）-单页] (https://ying-zhang.github.io/misc/2022-ccf-list/)
 ---
 
 
