@@ -1,4 +1,4 @@
-# [研究生学习资源](https://github.com/cxcygzs/Learning_Resources/edit/main/README.md)
+# [知识图谱实验室学习资源](https://github.com/cxcygzs/Learning_Resources/edit/main/README.md)
 # 目录
 
 - [研究生时间规划](#研究生时间规划)
