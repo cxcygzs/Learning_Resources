@@ -3,7 +3,7 @@
 
 - [研究生时间规划](#研究生时间规划)
 - [如何阅读论文转自施一公](#如何阅读论文转自施一公)
-- [知识图谱相关综述](#知识图谱大模型相关综述)
+- [知识图谱大模型相关综述](#知识图谱大模型相关综述)
 - [知识图谱各研究方向论文及数据集](#知识图谱各研究方向论文及数据集)
 - [知识图谱课程或相关研究机构主页](#知识图谱课程或相关研究机构主页)
 - [知识图谱相关书籍](#知识图谱相关书籍)
@@ -60,7 +60,8 @@
 5. [Knowledge_Graph_Completion_A_Review](https://github.com/cxcygzs/Learning_ResourcesForGraduates/files/10314108/Knowledge_Graph_Completion_A_Review.pdf)
 6. [A review Knowledge reasoning over knowledge graph](https://github.com/cxcygzs/Learning_ResourcesForGraduates/files/10314146/A.review.Knowledge.reasoning.over.knowledge.graph.pdf)
 7. [Knowledge Graph Embedding A Survey of Approaches and Applications](https://github.com/cxcygzs/Learning_ResourcesForGraduates/files/10314147/Knowledge.Graph.Embedding.A.Survey.of.Approaches.and.Applications.pdf)
-8. [人大大模型综述](https://github.com/RUCAIBox/LLMSurvey)[中文版链接](https://llmbook-zh.github.io/LLMBook.pdf)
+8. [Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey](https://arxiv.org/pdf/2402.05391v4)
+9. [人大大模型综述](https://github.com/RUCAIBox/LLMSurvey)[中文版链接](https://llmbook-zh.github.io/LLMBook.pdf)
 ---
 ### 知识图谱各研究方向论文及数据集
 1. [有代码的知识图谱论文及公开数据集](https://paperswithcode.com/task/knowledge-graphs)
