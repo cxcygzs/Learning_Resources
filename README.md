@@ -3,7 +3,7 @@
 
 - [研究生时间规划](#研究生时间规划)
 - [如何阅读论文转自施一公](#如何阅读论文转自施一公)
-- [知识图谱大模型相关综述](#知识图谱大模型相关综述)
+- [知识图谱、大模型相关综述](#知识图谱、大模型相关综述)
 - [知识图谱各研究方向论文及数据集](#知识图谱各研究方向论文及数据集)
 - [知识图谱课程或相关研究机构主页](#知识图谱课程或相关研究机构主页)
 - [知识图谱相关书籍](#知识图谱相关书籍)
@@ -50,7 +50,7 @@
 5. 科研训练的一个重要组成部分就是科研论文的阅读。每一个研究生必须经过严格的科研论文阅读的训练。除了你自己的习惯性阅读外，你应该在研究生阶段自学以阅读分析专业文献为主的一至两门课，在实验室内也要有定期的科研论文讨论（Journal Club）。
 6. 前面几条都是讨论如何提高科研论文的阅读能力，但是一旦入了门，就要学会critical reading。不要迷信已发表的论文，哪怕是发表在非常好的期刊上。要时刻提醒自己：该论文逻辑是否严谨，数据是否可靠，实验证据是否支持结论，你是否能想出更好的实验，你是否可以在此论文的基础上提出新的重要问题？等等。
 ---
-### 知识图谱大模型相关综述
+### 知识图谱、大模型相关综述
 1. [如何写出一篇优秀的文献综述？|《自然》专访](http://www.naturechina.com/solutions/literature_review)
 2. [From Symbols to Embeddings：A Tale of Two Representationsin Computational Social.pdf](https://github.com/cxcygzs/Learning_ResourcesForGraduates/files/10313630/From.Symbols.to.Embeddings.A.Tale.of.Two.Representationsin.Computational.Social.pdf)
 | [文中的参考文献](https://github.com/thunlp/CSSReview)
