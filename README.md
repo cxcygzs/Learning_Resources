@@ -96,10 +96,11 @@
 10. [Knowledge Graphs: A Practical Introduction across Disciplines](https://usc-isi-i2.github.io/ASONAM2020Tutorial/2020-12-asonam-tutorial-KG.pdf)
 11. [Knowledge Graphs Applied ](https://www.manning.com/books/knowledge-graphs-applied)
 12. [《从零构建知识图谱 技术、方法与案例》](https://github.com/cxcygzs/Learning_Resources/files/10049088/default.pdf) ||  [邵浩等著，配有实战案例，本书代码github地址](https://github.com/zhangkai-ai/build-kg-from-scratch)
-13. 《知识图谱：概念与技术》，肖仰华等著，可作为高年级本科生、硕士生或者博士生的教材
-14. 《知识图谱：方法、实践与应用》，王昊奋，漆桂林，陈华钧编
-15. 《知识图谱与深度学习》刘知远，韩旭，孙茂松著
-16. 《TensorFlow知识图谱实战》，王晓华著，（有代码PPT） 
+13. [Relational AI-My First Knowledge Graph](https://docs.relational.ai/getting-started/rel/my-first-knowledge-graph)
+14. 《知识图谱：概念与技术》，肖仰华等著，可作为高年级本科生、硕士生或者博士生的教材
+15. 《知识图谱：方法、实践与应用》，王昊奋，漆桂林，陈华钧编
+16. 《知识图谱与深度学习》刘知远，韩旭，孙茂松著
+17. 《TensorFlow知识图谱实战》，王晓华著，（有代码PPT） 
 ---
 ### 知识图谱构建工具
 1. [浙江大学支持cnSchema、低资源、长篇章、多模态的知识图谱抽取开源工具](http://deepke.zjukg.cn/CN/re_doc_show.html)
