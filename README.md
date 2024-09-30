@@ -215,6 +215,8 @@ Time to publication 3 weeks]
 16. [李白为中心节点的知识图谱](http://tsby.e.bnu.edu.cn/web/sc/home/poet-visual?id=5cca4a88-32bf-4e53-a046-f83c6fbe8ab4)
 17. [K12基础教育知识图谱](https://edukg.cn/)
 18. [刘焕勇中国科学院软件研究所-人物知识图谱数据集](https://github.com/liuhuanyong/PersonRelationKnowledgeGraph)
+19. [kali.org例子](https://www.virustotal.com/gui/home/upload)
+20. [Open-CyKG: An Open Cyber Threat Intelligence Knowledge Graph](https://github.com/IS5882/Open-CyKG)
 ---
 ### 实验室自建知识图谱系统
 1.  [疫情流调分析](https://graphxr.kineviz.com/projects)[检索输入杨铠冰]
