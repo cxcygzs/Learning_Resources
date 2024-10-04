@@ -100,7 +100,11 @@
 6. [豆包](https://www.doubao.com/chat/?channel=bing_sem&source=dbweb_bing_sem_xhs_pc_01&keywordid=1&msclkid=cd18f532d43b134c629e93cde6cea7a3)
 ---
 ### 科研工具
-
+1. [赛特新思](https://www.citexs.com/)
+2. [Aminer](https://www.aminer.cn/)
+3. [PapersWithCodeOnKnowledgeGraph](https://paperswithcode.com/task/knowledge-graphs)
+4. [PapersWithCodeOnLanguageModelling](https://paperswithcode.com/task/language-modelling)
+5. [Readpaper](https://readpaper.com/)
 
 
 
