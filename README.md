@@ -97,7 +97,6 @@
 4. [文心一言](https://yiyan.baidu.com/chat/Nzk4NDg5NDAxOjQ2Mjg0NzUxNzI=)
 5. [智普淸言](https://chatglm.cn/main/alltoolsdetail?lang=zh)
 6. [豆包](https://www.doubao.com/chat/?channel=bing_sem&source=dbweb_bing_sem_xhs_pc_01&keywordid=1&msclkid=cd18f532d43b134c629e93cde6cea7a3)
-7. 
 
 ---
 ### 知识图谱各研究方向论文及数据集
