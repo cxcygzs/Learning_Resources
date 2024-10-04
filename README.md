@@ -5,6 +5,7 @@
 - [研究生从事学术研究的赫曼法则(The Laws of Herman)](#研究生从事学术研究的赫曼法则)
 - [如何阅读论文转自施一公](#如何阅读论文转自施一公)
 - [知识图谱、大模型相关综述](#知识图谱大模型相关综述)
+- [大模型工具](#大模型工具)
 - [知识图谱各研究方向论文及数据集](#知识图谱各研究方向论文及数据集)
 - [知识图谱课程或相关研究机构主页](#知识图谱课程或相关研究机构主页)
 - [知识图谱相关书籍](#知识图谱相关书籍)
@@ -88,6 +89,11 @@
 7. [Knowledge Graph Embedding A Survey of Approaches and Applications](https://github.com/cxcygzs/Learning_ResourcesForGraduates/files/10314147/Knowledge.Graph.Embedding.A.Survey.of.Approaches.and.Applications.pdf)
 8. [Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey](https://arxiv.org/pdf/2402.05391v4)
 9. [人大大模型综述](https://github.com/RUCAIBox/LLMSurvey)[中文版链接](https://llmbook-zh.github.io/LLMBook.pdf)
+---
+### 大模型工具
+1. [文心一言](https://yiyan.baidu.com/chat/Nzk4NDg5NDAxOjQ2Mjg0NzUxNzI=)
+2. [智普淸言](https://chatglm.cn/main/alltoolsdetail?lang=zh)
+
 ---
 ### 知识图谱各研究方向论文及数据集
 1. [有代码的知识图谱论文及公开数据集](https://paperswithcode.com/task/knowledge-graphs)
