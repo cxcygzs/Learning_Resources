@@ -17,7 +17,7 @@
 - [如何做科研写论文](#如何做科研写论文)
 - [知识图谱系统](#知识图谱系统)
 - [实验室自建知识图谱系统](#实验室自建知识图谱系统)
-- [有趣的链接](#有趣的链接)
+- [计算机科学有趣的链接](#计算机科学有趣的链接)
 - [机器学习算法可视化](#机器学习算法可视化)
 
 
@@ -91,8 +91,13 @@
 9. [人大大模型综述](https://github.com/RUCAIBox/LLMSurvey)[中文版链接](https://llmbook-zh.github.io/LLMBook.pdf)
 ---
 ### 大模型工具
-1. [文心一言](https://yiyan.baidu.com/chat/Nzk4NDg5NDAxOjQ2Mjg0NzUxNzI=)
-2. [智普淸言](https://chatglm.cn/main/alltoolsdetail?lang=zh)
+1. [代码大模型Cursor](https://www.cursor.com/)
+2. [ChatGPT](https://chatgpt.com/)
+3. [InFlectionAI](https://inflection.ai/)
+4. [文心一言](https://yiyan.baidu.com/chat/Nzk4NDg5NDAxOjQ2Mjg0NzUxNzI=)
+5. [智普淸言](https://chatglm.cn/main/alltoolsdetail?lang=zh)
+6. [豆包](https://www.doubao.com/chat/?channel=bing_sem&source=dbweb_bing_sem_xhs_pc_01&keywordid=1&msclkid=cd18f532d43b134c629e93cde6cea7a3)
+7. 
 
 ---
 ### 知识图谱各研究方向论文及数据集
@@ -257,7 +262,7 @@ Time to publication 3 weeks]
 5. [计算机专业课程知识图谱](http://124.222.11.46:8002/)
 6. [医疗诊断知识图谱](http://124.222.11.46:5200/)
 ---
-### 有趣的链接
+### 计算机科学有趣的链接
 1. [Six degree of seperatation The Oracle of Bacon电影演员的六度分割](https://oracleofbacon.org/movielinks.php)
 2. [无人驾驶伦理问题MIT Moral Machine](https://www.moralmachine.net/hl/zh)
 3. [清华大学认知大模型GLM-130B：中英文双语预训练模型Demo](https://models.aminer.cn/democenter?demo=fill_blank_and_choice)
