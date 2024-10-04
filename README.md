@@ -6,6 +6,7 @@
 - [如何阅读论文转自施一公](#如何阅读论文转自施一公)
 - [知识图谱、大模型相关综述](#知识图谱大模型相关综述)
 - [大模型工具](#大模型工具)
+- [科研工具](#科研工具)
 - [知识图谱各研究方向论文及数据集](#知识图谱各研究方向论文及数据集)
 - [知识图谱课程或相关研究机构主页](#知识图谱课程或相关研究机构主页)
 - [知识图谱相关书籍](#知识图谱相关书籍)
@@ -97,6 +98,12 @@
 4. [文心一言](https://yiyan.baidu.com/chat/Nzk4NDg5NDAxOjQ2Mjg0NzUxNzI=)
 5. [智普淸言](https://chatglm.cn/main/alltoolsdetail?lang=zh)
 6. [豆包](https://www.doubao.com/chat/?channel=bing_sem&source=dbweb_bing_sem_xhs_pc_01&keywordid=1&msclkid=cd18f532d43b134c629e93cde6cea7a3)
+---
+### 科研工具
+
+
+
+
 
 ---
 ### 知识图谱各研究方向论文及数据集
