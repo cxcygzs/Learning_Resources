@@ -265,11 +265,11 @@ Time to publication 3 weeks]
 20. [Open-CyKG: An Open Cyber Threat Intelligence Knowledge Graph](https://github.com/IS5882/Open-CyKG)
 ---
 ### 实验室自建知识图谱系统
-1.  [疫情流调分析](https://graphxr.kineviz.com/projects)[检索输入杨铠冰]
+1.  [疫情流调分析-马宇科](https://graphxr.kineviz.com/projects)[检索输入杨铠冰]
 2.  [网络安全漏洞知识图谱-王乐天](http://124.222.11.46:8082/index)
 3. [基于Neo4j的漏洞知识图谱可视化系统-车昭明](http://riyuezhao.gitee.io/vul-kg/)
 4. [食品安全知识图谱](http://124.222.11.46:8081/login/)
-5. [计算机专业课程知识图谱](http://124.222.11.46:8002/)
+5. [计算机专业课程知识图谱-马宇科](http://124.222.11.46:8002/)
 6. [医疗诊断知识图谱](http://124.222.11.46:5200/)
 ---
 ### 计算机科学有趣的链接
