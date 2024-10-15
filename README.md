@@ -270,7 +270,7 @@ Time to publication 3 weeks]
 3. [基于Neo4j的漏洞知识图谱可视化系统-车昭明](http://riyuezhao.gitee.io/vul-kg/)
 4. [食品安全知识图谱-徐锐](http://124.222.11.46:8081/login/)
 5. [计算机专业课程知识图谱-马宇科](http://124.222.11.46:8002/)
-6. [医疗诊断知识图谱](http://124.222.11.46:5200/)
+6. [医疗诊断知识图谱-郭建华](http://124.222.11.46:5200/)
 ---
 ### 计算机科学有趣的链接
 1. [Six degree of seperatation The Oracle of Bacon电影演员的六度分割](https://oracleofbacon.org/movielinks.php)
