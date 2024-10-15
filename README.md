@@ -273,10 +273,11 @@ Time to publication 3 weeks]
 6. [医疗诊断知识图谱-郭建华](http://124.222.11.46:5200/)
 ---
 ### 计算机科学有趣的链接
-1. [Six degree of seperatation The Oracle of Bacon电影演员的六度分割](https://oracleofbacon.org/movielinks.php)
-2. [无人驾驶伦理问题MIT Moral Machine](https://www.moralmachine.net/hl/zh)
-3. [清华大学认知大模型GLM-130B：中英文双语预训练模型Demo](https://models.aminer.cn/democenter?demo=fill_blank_and_choice)
-4. [旧金山大学_University of San Francisco数据结构可视化](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+1. [兵棋推演系统](https://nashet.github.io/Prosperity-Wars/WEBGL/index.html)
+2. [Six degree of seperatation The Oracle of Bacon电影演员的六度分割](https://oracleofbacon.org/movielinks.php)
+3. [无人驾驶伦理问题MIT Moral Machine](https://www.moralmachine.net/hl/zh)
+4. [清华大学认知大模型GLM-130B：中英文双语预训练模型Demo](https://models.aminer.cn/democenter?demo=fill_blank_and_choice)
+5. [旧金山大学_University of San Francisco数据结构可视化](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 ---
 ### 机器学习算法可视化
 1. [Visualizing DBSCAN Clustering Demo](https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/)
