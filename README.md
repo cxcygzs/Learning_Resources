@@ -295,6 +295,7 @@ Time to publication 3 weeks]
 8. [Transformer模型的可视化Dodrio：Exploring transformer models in your browser!](https://poloclub.github.io/dodrio/) [视频](https://www.youtube.com/watch?v=qB-T9j7UTgE)
 9. [BertViz: Visualize Attention in NLP Models自然语言处理模型注意力可视化](https://github.com/jessevig/bertviz)||[可执行代码](https://colab.research.google.com/drive/1hXIQ77A4TYS4y3UthWF-Ci7V7vVUoxmQ?usp=sharing#scrollTo=T3H0qUZvPOP4)
 10. [Embedding projector嵌入可视化](https://projector.tensorflow.org/)
+11. [词云生成文本可视化](https://www.yciyun.com/)
 
 ### 您是第几位访客？
 ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
