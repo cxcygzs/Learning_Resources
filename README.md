@@ -289,7 +289,7 @@ Time to publication 3 weeks]
 5. [旧金山大学_University of San Francisco数据结构可视化](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 ---
 ### 机器学习算法可视化
-1. [学术公式可视化Manim](https://www.manim.community/)
+1. [数学公式可视化Manim](https://www.manim.community/)
 2. [Visualizing DBSCAN Clustering Demo](https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/)
 3. [Visualizing K-Means Clustering Demo](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
 4. [CNN Explainer Learn Convolutional Neural Network (CNN) in your browser!](https://poloclub.github.io/cnn-explainer/)
